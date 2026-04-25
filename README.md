@@ -6,6 +6,8 @@ I am a Data Analyst with strong operational and service delivery background.<br/
 
 Here is my GitHub place. Welcome!
 
+
+
 📫 Contact me: [maria.andrie.se@gmail.com](mailto:maria.andrie.se@gmail.com)
 
 <br/>  
