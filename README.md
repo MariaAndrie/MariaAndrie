@@ -1,8 +1,8 @@
 
-### Hi! My name is Maria.
+### 💕Hi! 
+### My name is Maria.
 
-I am a Data Analyst with strong operational and service delivery background.
-I have a natural curiosity for observing patterns, analyzing data, and drawing logical conclusions.
+I am a Data Analyst with strong operational and service delivery background.<br/> I have a natural curiosity for observing patterns, analyzing data, and drawing logical conclusions.
 
 Here is my GitHub place. Welcome!
 
